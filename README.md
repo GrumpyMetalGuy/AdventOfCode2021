@@ -1,0 +1,3 @@
+## Advent of Code 2021
+
+Another year, another go. This time, trying Scala3 to see how it works, so expect some horrible looking noob code...
